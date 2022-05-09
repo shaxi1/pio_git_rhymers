@@ -3,6 +3,8 @@ package edu.kis.vh.nursery;
 import org.junit.Assert;
 import org.junit.Test;
 
+// dotycz. podpunkt 14. Testy po zmianach przeszly pomyslnie
+
 public class RhymersJUnitTest {
 
 	@Test
