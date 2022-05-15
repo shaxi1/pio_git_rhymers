@@ -2,6 +2,8 @@ package edu.kis.vh.nursery;
 
 public class DefaultCountingOutRhymer {
 
+    // TODO: refactor constant declarations
+
     private static final int MNUMBER = 12;
     private static final int MONE = -1;
     private static final int ELEV = 11;

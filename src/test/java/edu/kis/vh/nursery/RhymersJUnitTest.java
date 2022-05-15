@@ -6,6 +6,8 @@ import org.junit.Test;
 
 // dotycz. podpunkt 14. Testy po zmianach przeszly pomyslnie
 
+// TODO: divide tests into files corresponding certain classes
+
 public class RhymersJUnitTest {
 	final int COUNTIN_PARAMETER = 888;
 	final int TEST_VALUE = 4;
